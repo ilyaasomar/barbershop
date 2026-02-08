@@ -45,17 +45,17 @@ export default function Contact() {
     {
       icon: MapPin,
       title: "Our Location",
-      lines: ["Bahnhofstrasse 42", "8001 Zurich, Switzerland"],
+      lines: ["Bahnhofstrasse XX", "8001 Zurich, Switzerland"],
     },
     {
       icon: Phone,
       title: "Phone",
-      lines: ["+41 44 123 45 67"],
+      lines: ["+41 00 000 00 00"],
     },
     {
       icon: Mail,
       title: "Email",
-      lines: ["info@swissbarber.ch"],
+      lines: ["info@swissbarberxxx.ch"],
     },
     {
       icon: Clock,
@@ -251,7 +251,7 @@ export default function Contact() {
                   Interactive Map
                 </h3>
                 <p className="text-muted-foreground text-sm">
-                  Bahnhofstrasse 42, Zurich
+                  Bahnhofstrasse XX, 8001 Zurich
                 </p>
               </motion.div>
             </div>
